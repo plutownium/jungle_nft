@@ -1,0 +1,9 @@
+.footerCentering {
+  justify-content: center;
+  align-items: center;
+}
+
+.footerFontSize {
+  font-size: 12px;
+  font-weight: 400;
+}
